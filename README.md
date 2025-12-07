@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Dharun Kumar S H
+## Hi there, I'm Dharun Kumar S H👦,
 
 Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | React.js Developer                                              
 - 🌱 I’m currently learning Next.js, GSAP and Three.js and proficient in React and Tailwind CSS.
