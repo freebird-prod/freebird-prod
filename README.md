@@ -10,7 +10,7 @@ Aspiring Frontend Developer | React Enthusiast
  [<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/iam.dharunkumar/)
 
 ### I code in
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,c,cpp,java,sass,tailwind,flask,nodejs,materialui,replit,mysql,mongodb,py,supabase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,sass,tailwind,flask,nodejs,materialui,mysql,mongodb,supabase" />
 
 ### IDE and Tools I Use
 <img src="https://skillicons.dev/icons?i=vscode,vite,git,github,gcp,netlify,vercel,firebase"/>
