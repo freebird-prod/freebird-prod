@@ -2,7 +2,6 @@
 
 Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | React.js Developer  
 
-- 3rd Year IT Student at Meenakshi Sundararajan Engineering College,
 - Aspiring Frontend Developer passionate about building clean, user-focused interfaces.
 - Experienced in React.js and continuously refining UI/UX thinking for better design outcomes.
 - Advancing Next.js expertise to create fast, scalable, and modern web experiences.
