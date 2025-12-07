@@ -5,7 +5,7 @@ Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | Re
 - Aspiring Frontend Developer passionate about building clean, user-focused interfaces.
 - Experienced in React.js and continuously refining UI/UX thinking for better design outcomes.
 - Advancing Next.js expertise to create fast, scalable, and modern web experiences.
-- 📚 ## What do I believe? Jack of all, Master of some.
+- 📚**What do I believe? Jack of all, Master of some.**
 - 📫 How to reach me: Instagram - [@iam.dharunkumar](iam.dharunkumar)
 
 ### I code in
