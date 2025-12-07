@@ -14,7 +14,7 @@ Aspiring Frontend Developer | React Enthusiast
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,c,cpp,java,sass,tailwind,flask,nodejs,materialui,replit,mysql,mongodb,py,supabase" />
 
 ### IDE and Tools I Use
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,vite,git,anaconda,eclipse,photoshop,androidstudio,github,gcp,gitlab,netlify,vercel,firebase"/>
+<img src="https://skillicons.dev/icons?i=vscode,vite,git,photoshop,androidstudio,github,gcp,gitlab,netlify,vercel,firebase"/>
  
 
 ![Dharun Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=freebird-prod&theme=dark&show_icons=true&&hide=issues,contribs)
