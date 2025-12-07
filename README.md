@@ -1,11 +1,11 @@
 ## Hi there, I'm Dharun Kumar S H👦,
 
-Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | React.js Developer                                              
-- 🌱 I’m currently learning Next.js, GSAP and Three.js and proficient in React and Tailwind CSS.
+Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | React.js Developer  
+
 - 3rd Year IT Student at Meenakshi Sundararajan Engineering College,
-- **Social Presence**
-<br /> [<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/DharunSH0302006) [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/dharun-kumar-sh/)
- [<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/iam.dharunkumar/)
+- Currently advancing skills in Next.js, GSAP, and Three.js to craft faster and more dynamic interfaces.
+- 
+- 
 
 ### I code in
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,sass,tailwind,flask,nodejs,materialui,mysql,mongodb,supabase" />
