@@ -3,9 +3,9 @@
 Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | React.js Developer  
 
 - 3rd Year IT Student at Meenakshi Sundararajan Engineering College,
-- Currently advancing skills in Next.js, GSAP, and Three.js to craft faster and more dynamic interfaces.
-- 
-- 
+- Aspiring Frontend Developer passionate about building clean, user-focused interfaces.
+- Experienced in React.js and continuously refining UI/UX thinking for better design outcomes.
+- Advancing Next.js expertise to create fast, scalable, and modern web experiences.
 
 ### I code in
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,sass,tailwind,flask,nodejs,materialui,mysql,mongodb,supabase" />
