@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Dharun Kumar S H
 
-Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | React.js Developer | Advancing Next.js Expertise to Build Fast, Scalable Web Experiences
+Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | React.js Developer
 - 🔭 Here's my **[Developer Portfolio](https://dharunkumar.web.app/)**                                                 
 - 🌱 I’m currently learning Next.js, GSAP and Three.js and proficient in React and Tailwind CSS.
 - 3rd Year IT Student at Meenakshi Sundararajan Engineering College,
