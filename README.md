@@ -1,6 +1,6 @@
 ## Hi there, I'm Dharun Kumar S H👦,
 
-Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | React.js Developer  
+**Aspiring Frontend Developer | UI/UX Enthusiast Focused on Better Interfaces | React.js Developer**  
 
 - Aspiring Frontend Developer passionate about building clean, user-focused interfaces.
 - Experienced in React.js and continuously refining UI/UX thinking for better design outcomes.
