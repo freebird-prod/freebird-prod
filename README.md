@@ -16,3 +16,4 @@
  
 
 ![Dharun Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freebird-prod&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freebird-prod&theme=tokyonight&layout=compact)
