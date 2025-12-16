@@ -9,7 +9,7 @@
 - 📫 How to reach me: **Instagram - [@iam.dharunkumar](iam.dharunkumar)**
 
 ### I code in
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,sass,tailwind,flask,nodejs,materialui,mysql,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,flask,nodejs,mysql,mongodb,supabase" />
 
 ### IDE and Tools I Use
 <img src="https://skillicons.dev/icons?i=vscode,vite,git,github,gcp,netlify,vercel,firebase"/>
