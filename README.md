@@ -15,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,vite,git,github,gcp,netlify,vercel,firebase"/>
  
 
-![Dharun Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freebird-prod&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freebird-prod&theme=tokyonight&layout=compact)
+![Dharun Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharunkumar-sh&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharunkumar-sh&theme=tokyonight&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=freebird-prod)
+![](https://komarev.com/ghpvc/?username=dharunkumar-sh)
