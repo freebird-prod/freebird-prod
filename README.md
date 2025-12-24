@@ -1,12 +1,24 @@
-## Hi there, I'm Dharun Kumar S H👦,
+# Hi there, I'm Dharun Kumar S H👦,
 
-### A Passionate Frontend Developer from India
+## A Passionate Frontend Developer from India
 
-- Aspiring Frontend Developer passionate about building clean, user-focused interfaces.
-- Experienced in React.js and continuously refining UI/UX thinking for better design outcomes.
-- Advancing Next.js expertise to create fast, scalable, and modern web experiences.
-- 📚**What do I believe? Jack of all, Master of some.**
-- 📫 How to reach me: **Instagram - [@iam.dharunkumar](iam.dharunkumar)**
+- 🔭 I'm currently working on **a E-Commerce Website**
+
+- 🌱 I'm currently learning **Next.js and TypeScript.**
+
+- 👯 I'm looking to collaborate on **open source projects**
+
+- 🤝 I'm looking for help with **UI/UX Design Ethics**
+
+- 💬 Ask me about **React.js, Tailwind CSS and JavaScript.**
+
+- 📫 How to reach me **iam.dharunkumarsh@gmail.com**
+
+- ⚡ Fun fact **I think I am creative.**
+
+- 👨‍💻 All of my projects are available at **[https://www.dharunkumar.me](https://www.dharunkumar.me)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1WTB3OI4DQzbLq14yUSTdkHrM-29XvehC/view?usp=sharing](https://drive.google.com/file/d/1WTB3OI4DQzbLq14yUSTdkHrM-29XvehC/view?usp=sharing)**
 
 ### I code in
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,flask,nodejs,mysql,mongodb,supabase" />
