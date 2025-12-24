@@ -31,3 +31,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharunkumar-sh&theme=tokyonight&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=dharunkumar-sh)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dharunkumar-sh&theme=dark&short_numbers=true)](https://git.io/streak-stats)
