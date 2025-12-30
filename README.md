@@ -25,8 +25,3 @@
 
 ### IDE and Tools I Use
 <img src="https://skillicons.dev/icons?i=vscode,vite,git,github,gcp,netlify,vercel,firebase"/>
-
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharunkumar-sh&theme=tokyonight&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=dharunkumar-sh)
