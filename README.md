@@ -1,7 +1,5 @@
 # Hi there, I'm Dharun Kumar S H👦,
 
-<img align="center" alt="Company Banner" width="100%" src=""/>
-
 ## A Passionate Frontend Developer from India
 
 - 🔭 I'm currently working on **a E-Commerce Website**
